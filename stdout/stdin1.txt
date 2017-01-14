@@ -1,3 +1,3 @@
-mammals
+bat
 ['Noun']
-Mammals are any vertebrates within the class Mammalia (/məˈmeɪli.ə/ from Latin mamma "breast"), a clade of endothermic amniotes distinguished from reptiles and birds by the possession of a neocortex (a region of the brain), hair, three middle ear bones and mammary glands. The sister group of mammals may be the extinct Haldanodon. The mammals represent the only living Synapsida, which together with the Sauropsida form the Amniota clade. The mammals consist of the Yinotheria including monotrema and the Theriiformes including the theria.
+Bats are mammals of the order Chiroptera (/kaɪˈrɒptərə/; from the Ancient Greek: χείρ - cheir, "hand"[1] and Ancient Greek: πτερόν - pteron, "wing"[2])[3] whose forelimbs form webbed wings, making them the only mammals naturally capable of true and sustained flight.[3] By contrast, other mammals said to fly, such as flying squirrels, gliding possums, and colugos, can only glide for short distances. Bats do not flap their entire forelimbs, as birds do, but instead flap their spread-out digits,[4] which are very long and covered with a thin membrane or patagium.
