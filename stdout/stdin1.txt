@@ -1,0 +1,3 @@
+mammals
+['Noun']
+Mammals are any vertebrates within the class Mammalia (/məˈmeɪli.ə/ from Latin mamma "breast"), a clade of endothermic amniotes distinguished from reptiles and birds by the possession of a neocortex (a region of the brain), hair, three middle ear bones and mammary glands. The sister group of mammals may be the extinct Haldanodon. The mammals represent the only living Synapsida, which together with the Sauropsida form the Amniota clade. The mammals consist of the Yinotheria including monotrema and the Theriiformes including the theria.
